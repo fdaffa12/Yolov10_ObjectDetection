@@ -26,7 +26,7 @@ pip install cvzone
 project/
 │
 ├── helmet_detection_video.py # Script utama
-├── run_helmet_detection.bat # Batch file untuk menjalankan program
+├── RUN DISINI.bat # Batch file untuk menjalankan program
 ├── Weights/
 │ └── best.pt # File model YOLO terlatih
 └── output_detection.mp4 # File output hasil deteksi
@@ -58,7 +58,7 @@ project/
 
 ### Metode 1: Menggunakan Batch File
 
-1. Double click file `run_helmet_detection.bat`
+1. Double click file `RUN DISINI.bat`
 2. Pilih video yang akan diproses
 3. Tunggu proses deteksi
 
@@ -70,7 +70,7 @@ project/
    bash
    python helmet_detection_video.py
 
-Solusi: Install package yang diperlukan
+##Solusi: Install package yang diperlukan
 pip install [nama_package]
 
 ### 2. Model tidak ditemukan
