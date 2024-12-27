@@ -1,0 +1,7 @@
+path: ../drive/MyDrive/project/Yolov10
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ["helmet", "no helmet"]
