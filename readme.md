@@ -70,7 +70,8 @@ project/
    bash
    python helmet_detection_video.py
 
-##Solusi: Install package yang diperlukan
+## Solusi: Install package yang diperlukan
+
 pip install [nama_package]
 
 ### 2. Model tidak ditemukan
